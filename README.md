@@ -1,1 +1,1 @@
-# marceloonlyfr.githu.io
+echo "# skibidi" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://theasteroid.shekinahphotography.com/)https://theasteroid.shekinahphotography.com/ git push -u origin main
